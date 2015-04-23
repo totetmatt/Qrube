@@ -3,6 +3,7 @@
 Provide video id from Youtube, and get QRCode of the Video Source to download it.
 
 # Using:
-* @davidshimjs QRCode.js
+* http://davidshimjs.github.io/qrcodejs/
+* https://github.com/rg3/youtube-dl/
 
 
